@@ -1,1 +1,1 @@
-# SolutionNewsWinApp
+#Simple News Application
